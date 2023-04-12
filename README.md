@@ -1,16 +1,24 @@
-### Hi there 👋
+# MaraMincho 😉
 
-<!--
-**MaraMincho/MaraMincho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+## al...go...🎅 rythm 🎶
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seemaster300)](https://solved.ac/seemaster300/)
+
+<br/>
+
+## log... blog... 📓
+[What does not kill me makes me stronger](https://maramincho.tistory.com/)
+<br/>
+<br/>
+
+<br/>
+
+## check check [(📚 book review)](https://maramincho.tistory.com/) 
+"Camus had often told friends that nothing was more scandalous than the death of a child, and nothing more absurd than to die in a car accident."
+      
+"어린아이의 죽음보다 더 분노할 만한 일은 없고, 자동차 사고로 죽는 것보다 더 부조리한 것은 없다."
+
+
