@@ -20,7 +20,11 @@
 
 
 ## Activity 🎯
-      - boostcamp Web / Mobile 7th membership 2023.07 ~ 2023.07
+
+- **boostcamp Web / Mobile 8th membership**  &nbsp;&nbsp;&nbsp;&nbsp; 23.07 ~ 23.07
+
+
+
 
 <br/>
 <br/>
