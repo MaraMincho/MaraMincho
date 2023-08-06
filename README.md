@@ -18,6 +18,15 @@
 
 <br/>
 
+
+## Activity 🎯
+      - boostcamp Web / Mobile 7th membership 2023.07 ~ 2023.07
+
+<br/>
+<br/>
+
+<br/>
+
 ## check check [(📚 book review)](https://maramincho.tistory.com/category/%EC%B7%A8%EB%AF%B8) 
 "Camus had often told friends that nothing was more scandalous than the death of a child, and nothing more absurd than to die in a car accident."
       
