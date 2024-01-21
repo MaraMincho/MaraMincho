@@ -2,17 +2,19 @@
 
 <br/>
 
-## al...go...🎅 rythm 🎶
+## algorithm 💾
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seemaster300)](https://solved.ac/seemaster300/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=seemaster300&theme=cold)
+
 
 <br/>
 
-## log... blog... 📓
+## blog 📄
+
 [What does not kill me makes me stronger](https://maramincho.tistory.com/)
+
 <br/>
 <br/>
 
@@ -21,7 +23,8 @@
 
 ## Activity 🎯
 
-- **boostcamp Web / Mobile 8th membership**  &nbsp;&nbsp;&nbsp;&nbsp; 23.07 ~ 
+- **boostcamp Web / Mobile 8th membership**  &nbsp;&nbsp;&nbsp;&nbsp; 23.07 ~ 23.08
+- **boostcamp Web / Mobile 8th challenge**  &nbsp;&nbsp;&nbsp;&nbsp; 23.09 ~ 23.12
 
 
 
