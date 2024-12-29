@@ -14,7 +14,7 @@
 
 <br/><br/><br/>
 
-## Projects 📃
+## Application projects 📱
 <center>
 
 |App|Description|Link|
@@ -27,9 +27,11 @@
 
 <br/>
 
+## Open Source Projects 📋
+
 |OpenSourceName|Description|Link|
 |:-:|:-:|:-:|
-|SwiftAsyncMutex|AsyncMutexManager is a concurrency control utility that helps manage and synchronize access to resources or sections of code across multiple tasks. |https://github.com/MaraMincho/SwiftAsyncMutex|
+|SwiftAsyncMutex|A Swift utility for managing and synchronizing concurrent tasks with a defined limit on the number of simultaneous executions.|https://github.com/MaraMincho/SwiftAsyncMutex|
 |SwiftErrorArchiver|Archive swift error or event through messageble platform|https://github.com/MaraMincho/SwiftErrorArchiver|
 
 
