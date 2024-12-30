@@ -50,6 +50,7 @@
 
 ## Activity 🎯
 
+- **SQL Developer(SQLD)** &nbsp;&nbsp;&nbsp;&nbsp; 24.12
 - **Engineer Information Processing(정보처리기사)** &nbsp;&nbsp;&nbsp;&nbsp; 24.06
 - **boostcamp Web / Mobile 8th membership**  &nbsp;&nbsp;&nbsp;&nbsp; 23.07 ~ 23.08
 - **boostcamp Web / Mobile 8th challenge**  &nbsp;&nbsp;&nbsp;&nbsp; 23.09 ~ 23.12
