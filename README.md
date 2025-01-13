@@ -32,7 +32,7 @@
 |OpenSourceName|Description|Link|
 |:-:|:-:|:-:|
 |SwiftAsyncMutex|A Swift utility for managing and synchronizing concurrent tasks with a defined limit on the number of simultaneous executions.|https://github.com/MaraMincho/SwiftAsyncMutex|
-|SwiftErrorArchiver|Archive swift error or event through messageble platform|https://github.com/MaraMincho/SwiftErrorArchiver|
+|SwiftEventShooter|Archive swift error or event through messageble platform|https://github.com/MaraMincho/SwiftEventShooter|
 
 
 </center>
